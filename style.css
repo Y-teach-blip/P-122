@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	background-image: url(background.jpg);
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: rgb(197, 255, 192);
+	border-radius: 20px;
+	
+}
